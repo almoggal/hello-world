@@ -1,2 +1,3 @@
 # hello-world
-practice repository
+
+My name is Almog Gal.
